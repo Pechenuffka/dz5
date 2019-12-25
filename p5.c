@@ -1,3 +1,8 @@
+//made by serGEY burakov
+//(i am suffering)
+
+
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <ncurses.h>
